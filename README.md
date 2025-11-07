@@ -40,3 +40,12 @@ This project performs **exploratory data analysis (EDA)** on a global COVID-19 d
 ## Tools & Libraries
 ```python
 pandas
+
+```
+
+### Insights Gained
+
+- **Spain and Germany** **led in recoveries** despite **high case counts**  
+- **Recovery rates** vary **significantly** by **healthcare system** and **testing capacity**  
+- **Granular data** (e.g., US states, Chinese provinces) **enables regional comparisons**  
+- **Data highlights early pandemic phase** (**pre-vaccine era**)
